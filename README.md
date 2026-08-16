@@ -26,7 +26,7 @@ Frontend Developer passionate about building responsive, accessible, and high-pe
 ### My GitHub Stats
 
 <a href="https://github.com/EricCR85">
-<img src="https://github-readme-stats.vercel.app/api?username=EricCR85&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="EricCr85's GitHub stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=EricCR85&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="EricCr85's GitHub stats" />
 </a>
 
 <a href="https://github.com/EricCR85">
@@ -34,5 +34,5 @@ Frontend Developer passionate about building responsive, accessible, and high-pe
 </a>
 
 <a href="https://github.com/EricCR85">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricCR85&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EricCR85&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" />
 </a>

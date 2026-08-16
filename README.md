@@ -29,4 +29,4 @@ Frontend Developer passionate about building responsive, accessible, and high-pe
 
 <a href="https://github.com/EricCr85"><img src="https://streak-stats.demolab.com?user=EricCr85&theme=dark" alt="Streak Stats" /></a>
 
-<a href="https://github.com/EricCr85"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricCr85&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
+<a href="https://github.com/EricCr85"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EricCr85&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>

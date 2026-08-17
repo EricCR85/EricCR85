@@ -8,6 +8,7 @@ Frontend Developer passionate about building responsive, accessible, and high-pe
 
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [GitHub Profile](https://github.com/EricCR85)
+* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/eric-reeves-36ab5514b/)
 * ✉️  You can contact me at [ecr.ceo@gmail.com](mailto:ecr.ceo@gmail.com)
 * 🚀  I'm currently working on [NFT Virtual Internship Platform](github.com/EricCR85/skintics-project)
 * 🧠  I'm currently learning Next.js, TypeScript, & Tailwind CSS

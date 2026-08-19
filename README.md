@@ -10,7 +10,7 @@ Frontend Developer passionate about building responsive, accessible, and high-pe
 * 🖥️  See my portfolio at [Portfolio](https://portfolio-one-rose-86.vercel.app/)
 * 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ericcreeves)
 * ✉️  You can contact me at [ecr.ceo@gmail.com](mailto:ecr.ceo@gmail.com)
-* 🚀  I'm currently working on [Netflix Clone])
+* 🚀  I'm currently working on [Netflix Clone]
 * 🧠  I'm currently learning Next.js, TypeScript, & Tailwind CSS
 * 👥  I'm looking to collaborate on Frontend Applications, Open Source React Projects, or Web Performance Optimization
 * 💬  Ask me about Passionate about building pixel-perfect, accessible user interfaces... and loves to dance.

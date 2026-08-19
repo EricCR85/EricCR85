@@ -7,7 +7,7 @@ Frontend Developer | React & TypeScript Specialist
 Frontend Developer passionate about building responsive, accessible, and high-performance web applications using React, Next.js and modern CSS frameworks.
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [GitHub Profile](https://github.com/EricCR85)
+* 🖥️  See my portfolio at [GitHub Profile](https://portfolio-one-rose-86.vercel.app/)
 * 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ericcreeves)
 * ✉️  You can contact me at [ecr.ceo@gmail.com](mailto:ecr.ceo@gmail.com)
 * 🚀  I'm currently working on [NFT Virtual Internship Platform](github.com/EricCR85/skintics-project)

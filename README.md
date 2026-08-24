@@ -9,7 +9,7 @@ Frontend Developer passionate about building responsive, accessible, and high-pe
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [Portfolio](https://portfolio-one-rose-86.vercel.app/)
 * 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ericcreeves)
-* ✉️  You can contact me at [ecr.ceo@gmail.com](mailto:ecr.ceo@gmail.com)
+* ✉️  You can contact me at [reeves.eric85@gmail.com](mailto:ecr.ceo@gmail.com)
 * 🚀  I'm currently working on [Netflix Clone](https://github.com/EricCR85/netflix-clone)
 * 🧠  I'm currently learning Next.js, TypeScript, & Tailwind CSS
 * 👥  I'm looking to collaborate on Frontend Applications, Open Source React Projects, or Web Performance Optimization
